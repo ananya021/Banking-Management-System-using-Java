@@ -49,9 +49,3 @@ This Java project implements a simple banking system that allows users to create
 
 5. **Database Configuration:**
    - The project uses JDBC for database connectivity. Configure the JDBC settings in the `JDBC_Database` class.
-
-## Contributors to this project
-1. Ananya Aggarwal
-2. Aditya Rastogi
-3. Peehu Khandelwal
-4. Raghvendra Singh Chouhan
